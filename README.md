@@ -22,7 +22,7 @@ Thymeleaf: For rendering dynamic content on the front end.
 Installation
 step
 1. Clone the repository:
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/kunwaraman/student-management-system.git
 
 2.Navigate to the project directory:
 cd student-management-system
